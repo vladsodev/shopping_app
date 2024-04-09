@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:shopping_app/widgets/product_card.dart';
 import 'package:shopping_app/pages/product_details_page.dart';
 import '../global_variables.dart';
