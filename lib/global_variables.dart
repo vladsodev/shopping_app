@@ -1,0 +1,42 @@
+final products = [
+  {
+  'id': '0',
+  'title': 'Coffee Date',
+  'price': 10.00,
+  'imageUrl': 'assets/images/cute_coffee.png',
+  'company': 'Cute Coffee',
+  'lengthes': [1, 2, 3, 4],
+  },
+  {
+  'id': '1',
+  'title': 'Double Stars',
+  'price': 20.00,
+  'imageUrl': 'assets/images/double_coffee.png',
+  'company': 'Cute Coffee',
+  'lengthes': [1, 2, 3, 4],
+  },
+  {
+  'id': '2',
+  'title': 'Museum Date',
+  'price': 18.00,
+  'imageUrl': 'assets/images/museum.png',
+  'company': 'Vlados Inc.',
+  'lengthes': [1, 2, 3, 4],
+  },
+  {
+  'id': '3',
+  'title': 'Beer Cooking Date',
+  'price': 50.00,
+  'imageUrl': 'assets/images/beer.png',
+  'company': 'Vlados Inc.',
+  'lengthes': [1, 2, 3, 4],
+  },
+  {
+  'id': '4',
+  'title': 'Psycho',
+  'price': 100.00,
+  'imageUrl': 'assets/images/psychoo.png',
+  'company': 'Vlados Inc.',
+  'lengthes': [1, 2, 3, 4],
+  },
+];
